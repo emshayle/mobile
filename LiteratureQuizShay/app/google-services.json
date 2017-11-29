@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "615219076399",
+    "firebase_url": "https://literatureshay.firebaseio.com",
+    "project_id": "literatureshay",
+    "storage_bucket": "literatureshay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615219076399:android:0517ea8f2b4e8f6e",
+        "android_client_info": {
+          "package_name": "edu.tjhsst.literaturequizshay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615219076399-4o5sah2sh9jadsc83qn52mdorc8h6tjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.tjhsst.literaturequizshay",
+            "certificate_hash": "d3faa561491ec431226718c0e1b2db4aeb90c36e"
+          }
+        },
+        {
+          "client_id": "615219076399-9l49cp3v8fesch8afqqr8ogu37oiebdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN5DiG25UrSTYX2l6G8ggSVgGpznervxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615219076399-9l49cp3v8fesch8afqqr8ogu37oiebdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

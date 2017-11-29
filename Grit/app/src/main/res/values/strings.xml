@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grit</string>
+    <string name="API_key">AIzaSyAUuUFuYHLxFWiK0tro15LniXtfKWz1OeY</string>
+    <string name="videoKey">fhWaJi1Hsfo</string>
+    <string name="errormessage">Failed Initialize</string>
+    <string name="title">YouTube Android Player API</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Elephants</string>
+    <string name="e1">Elephant One </string>
+    <string name="e2">Elephant Two </string>
+    <string name="disabled"> [ This is currently disabled ] </string>
+
+    <string name="q1">Name your first elephant:</string>
+    <string name="q2">Name your second elephant:</string>
+    <string name="q3">Evolve! </string>
+
+    <string name="submit"> Submit </string>
+    <string name="reset"> Reset </string>
+</resources>

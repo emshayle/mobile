@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "403985767079",
+    "firebase_url": "https://elephants-bfcbc.firebaseio.com",
+    "project_id": "elephants-bfcbc",
+    "storage_bucket": "elephants-bfcbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403985767079:android:08ff9c38a92bc73e",
+        "android_client_info": {
+          "package_name": "com.example.a2019kle.elephants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403985767079-a0r2t0n72gimeo7i9ovpbi1frgftbkqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2019kle.elephants",
+            "certificate_hash": "d3faa561491ec431226718c0e1b2db4aeb90c36e"
+          }
+        },
+        {
+          "client_id": "403985767079-tok9vahrcubdkjg4v9hookjq44iaage3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLaIeLET198xGb5MSkMI_wG7cEiaNR14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403985767079-tok9vahrcubdkjg4v9hookjq44iaage3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
